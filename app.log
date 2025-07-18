@@ -6,3 +6,4 @@
 2025-07-08 11:44:37,305 - ERROR - Erro ao processar anexos/fatura_teste.pdf: HTTPSConnectionPool(host='sap-api.fake', port=443): Max retries exceeded with url: /purchase-orders (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000196D281C6E0>: Failed to resolve 'sap-api.fake' ([Errno 11001] getaddrinfo failed)"))
 2025-07-08 11:44:37,320 - ERROR - Erro ao processar anexos/fatura_teste.pdf: HTTPSConnectionPool(host='sap-api.fake', port=443): Max retries exceeded with url: /purchase-orders (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000196D2842710>: Failed to resolve 'sap-api.fake' ([Errno 11001] getaddrinfo failed)"))
 2025-07-08 11:49:50,629 - INFO - Iniciando automação de criação de PO no SAP.
+2025-07-18 00:06:20,731 - INFO - Iniciando automação de criação de PO no SAP.
